@@ -1,0 +1,3 @@
+!#/bin/bash
+clear
+python2 challenge.py
